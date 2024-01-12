@@ -1,0 +1,15 @@
+img {width: 300px;height: auto;margin: auto;display: block; }
+ul {list-style: none;}
+ul {
+  list-style: none;
+  text-align: center;
+}
+li {
+  display: inline-block;
+  margin-right: 5px; 
+}
+a {text-decoration: none;font-family: 'Bungee Spice', sans-serif;color: blue;}
+a:hover {
+        text-decoration: underline;
+        color: red;
+}
